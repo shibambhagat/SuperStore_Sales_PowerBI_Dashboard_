@@ -75,7 +75,7 @@ The dataset contains fictional transactional data of a Superstore, including:
 
 ## Dashboard Live Link
 
-[View the Dashboard](https://short.url/dashboard-link)
+[View the Dashboard](https://tinyurl.com/2rcwzfxa)
 
 ## Highlights
 
