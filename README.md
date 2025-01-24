@@ -29,11 +29,15 @@ This project is designed to showcase my skills in:
    - Monthly and Yearly Sales Trends
    - Seasonality Analysis
 
-5. **Customer Insights**:
+5. **Forecasting**:
+   - Sales Forecasting using historical data trends
+   - Predictive insights to aid in planning and decision-making
+
+6. **Customer Insights**:
    - Top Customers by Sales
    - Sales Contribution by Customer Segment
 
-6. **Interactive Filters**:
+7. **Interactive Filters**:
    - Ability to filter by Category, Region, Customer Segment, and Time Period for deeper insights.
 
 ## Tools & Technologies Used
@@ -61,6 +65,7 @@ The dataset contains fictional transactional data of a Superstore, including:
 3. **Line Charts**: Display time-series trends in sales and profit.
 4. **Maps**: Visualize regional performance with heatmaps.
 5. **Pie/Donut Charts**: Represent customer segmentation.
+6. **Forecasting Visuals**: Showcase predictive insights for future sales trends.
 
 ## How to Use
 
@@ -76,6 +81,7 @@ The dataset contains fictional transactional data of a Superstore, including:
 
 - Designed an intuitive and user-friendly dashboard.
 - Applied advanced DAX measures for dynamic visualizations.
+- Integrated forecasting for actionable predictions.
 - Used a clean and structured data model to ensure performance.
 - Integrated multiple visuals to tell a compelling data story.
 
@@ -84,6 +90,7 @@ The dataset contains fictional transactional data of a Superstore, including:
 - **Data Cleaning and Transformation**: Used Power Query for preprocessing.
 - **Data Modeling**: Designed relationships and hierarchies for efficient analysis.
 - **Analytical Thinking**: Identified critical business metrics and developed insights.
+- **Forecasting**: Applied predictive techniques to project future sales.
 - **Visualization Design**: Created interactive and visually appealing dashboards.
 
 ## About Me
@@ -93,4 +100,4 @@ I am a fresher passionate about data analytics and business intelligence. This p
 ## Contact
 
 - **Email**: [shibambhagat03@gmail.com
-- **GitHub**: [https://github.com/shibambhagat]
+- **GitHub**: [Explore more of my projects](https://github.com/shibambhagat)
