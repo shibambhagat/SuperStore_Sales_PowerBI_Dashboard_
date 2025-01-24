@@ -75,7 +75,7 @@ The dataset contains fictional transactional data of a Superstore, including:
 
 ## Dashboard Live Link
 
-*https://app.powerbi.com/view?r=eyJrIjoiY2YyZWU1MTMtNmZmNS00NzRjLWExMWQtOTU2ZDIwZGYyMjQ4IiwidCI6IjJmMTMyMWI5LTVkYWEtNDM4NC04NjBlLTMzODQwYTc0OWVmYiJ9*
+[View the Dashboard](https://short.url/dashboard-link)
 
 ## Highlights
 
@@ -99,5 +99,5 @@ I am a fresher passionate about data analytics and business intelligence. This p
 
 ## Contact
 
-- **Email**: [shibambhagat03@gmail.com
+- **Email**: [shibambhagat03@gmail.com](mailto:shibambhagat03@gmail.com)
 - **GitHub**: [Explore more of my projects](https://github.com/shibambhagat)
